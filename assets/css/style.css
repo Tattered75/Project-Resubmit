@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+Image {https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBuKqxgBVYiR58b2UQIA6JrjGiv2xD239i8w&usqp=CAU}
+
+header {
+    margin: 0;
+}
+.logo {
+    background: url(https://cdn4.vectorstock.com/i/1000x1000/85/08/creative-webpage-development-concept-vector-24198508.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: .5s ease-in-out;
+    -moz-transition: .5s ease-in-out;
+    -webkit-transition: .5s ease-in-out;
+}
