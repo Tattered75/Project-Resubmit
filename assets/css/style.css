@@ -1,9 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
+/*------------------------Colors------------*/
+
+.bg-name-title-color {
+    background-color: #676767;
+}
+
 Image {https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBuKqxgBVYiR58b2UQIA6JrjGiv2xD239i8w&usqp=CAU}
 
+/*------------------------Heading------------*/
 header {
     margin: 0;
+}
+
+.heading {
+    margin-left: 50px;
 }
 .logo {
     background: url(https://cdn4.vectorstock.com/i/1000x1000/85/08/creative-webpage-development-concept-vector-24198508.jpg);
