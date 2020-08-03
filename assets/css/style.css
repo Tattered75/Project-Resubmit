@@ -9,26 +9,27 @@
     background-color: #fff;
 }
 .bg-color-personal-info {
-    background-color: #f4f4f4;
+    background-color: #750b0b;
+
 }
 .bg-color-work-history {
-    background-color: #9b59b6;
+    background-color: #e4e126;
 
 }
 .bg-color-contact {
     background-color: #fff;
 }
 .ui-menu-color-home{
-    background-color: #e67e22;
+    background-color: #e65a22;
 }
 .ui-menu-color-resume{
-    background-color: #9b59b6;
+    background-color: #a72626;
 }
 .ui-menu-color-contact{
-    background-color: #3498db;
+    background-color: #e65a22;
 }
 .ui-menu-color-download{
-    background-color: #525252;
+    background-color: #a72626;
 }
 
 /*------------------------Special Paddings/Margins/Text------------*/
@@ -57,6 +58,7 @@ h1, h2, h3, h4 {
     display: table-cell;
     padding: 0 30px 30px;
     float: none;
+    color: rgb(20, 1, 1);
 }
 .history-heading,
 .section-heading {
@@ -90,7 +92,7 @@ header {
     margin-bottom: 90px;
     color:#fff;
 }
-.list-inline-item:not(last-child){
+.list-inline-item:not(:last-child){
     margin: 0;
 }
 .menucontainer{
@@ -215,6 +217,7 @@ footer {
     margin-bottom: 20px;
     display: block;
     clear: both;
+    color: rgb(20, 1, 1);
 
 }
 
