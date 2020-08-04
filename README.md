@@ -1,34 +1,39 @@
 
-MY PORTFOLIO
+## MY PORTFOLIO
 This is a portfolio for potential employers to review to get a quick overview of my work experience and to demonstrate my ability as a programmer. 
-It will contain a standard CV as well for employers looking for a more traditional resume. This version is however more user friendly and pleasant to look abilitygiving a quick synopsis of my experience and abilities.
+It will contain a standard CV as well for employers looking for a more traditional resume. This version is however more user friendly and pleasant
+to look at giving a quick synopsis of my experience and abilities.
 
-UX
-User stories
+## UX
+## User Stories
 
-First Time Visitor Goals
+### First Time Visitor Goals
 My intention is to ensure that they find it easy to navigate the site and that the content is useful and user friendly
-It has to be visually appealing so that they will want to return.
+It has to be visually appealing so that they will want to return and have apositive opinion of my developer skills.
 It should be informative and make them want to pick up the phone and give me an interview.
 
-Returning Visitor Goals
-My intention is to provide access to further information and queries as they have had time to think and discuss with others my resume.
+### Returning Visitor Goals
+My intention is to provide access to further information and queries as they have had time to think and discuss my resume with others.
 They would likely want to readily have access to contact information where their question can be answered and have access to a formal standard CV.
 
-Frequent User Goals
+### Frequent User Goals
 They would want to have ready information to my contact details should they wish to call me for an interview.
-They would like want access to a summary of my skills if they're considering shortlisting me and comparing my skills to other candidates.
+They would likey want access to a summary of my skills if they're considering shortlisting me and comparing my skills to other candidates.
 That being the case I would like my skills to be favourably presented and readily available.
 
-Design
-Colour Scheme
-I will stick to autumn colors as much as possible to match the first page, but add some reds and greens to breathe life into the pages.
-Typography
-The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
-Imagery
-Imagery is important. The large, background hero image is designed to be add an air of mystery that will attract fantasy lovers to this mystical place. I will try to balance it out by infusing energy and fun into other pages images.
+## Design
+### Colour Scheme
+I used colors a simple but bright color scheme. I felt that corporate colors like blue are not the most suitable for a web developer as developer needs to show that they can
+be relied on for fresh new ideas which brighter colors convey. However I used charcoal to tone down the color scheme so as not to scare away more traditional corporations.
+I felt a balance between that two would cast a wider net.
+### Typography
+The Roboto font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported 
+into the site correctly. Roboto looks professional and attractive.
+### Imagery
+Imagery is important. Unfortuately I had to tone it down for this type of site. I used the ideas and coding from the Code Institute lessons as felt it took the portfolio to 
+the next level. I borrowed the ideas and coding of a timeline and visual persentage bars from the Code institue lessons which are visually stimulating, together with the recommended use of font awsome.
 
-Wireframes
+## Wireframes
 Home Page Wireframe – needs to be amended but to late. 
 Mobile Wireframe - View
 Contact Us Page Wireframe - View
